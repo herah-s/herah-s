@@ -1,2 +1,3 @@
 <h3>Hi 👋, I'm Rina</h3>
-<p>An aspiring backend developer from Tokyo</p>
+<p>I'm backend developer from Tokyo.</p>
+<p>Welcome, feel free to take a look around! ✨</p>
